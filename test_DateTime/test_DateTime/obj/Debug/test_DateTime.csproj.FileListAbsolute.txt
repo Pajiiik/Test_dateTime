@@ -1,0 +1,10 @@
+G:\PRG\test_DateTime\test_DateTime\bin\Debug\test_DateTime.exe.config
+G:\PRG\test_DateTime\test_DateTime\bin\Debug\test_DateTime.exe
+G:\PRG\test_DateTime\test_DateTime\bin\Debug\test_DateTime.pdb
+G:\PRG\test_DateTime\test_DateTime\obj\Debug\test_DateTime.csprojAssemblyReference.cache
+G:\PRG\test_DateTime\test_DateTime\obj\Debug\test_DateTime.Form1.resources
+G:\PRG\test_DateTime\test_DateTime\obj\Debug\test_DateTime.Properties.Resources.resources
+G:\PRG\test_DateTime\test_DateTime\obj\Debug\test_DateTime.csproj.GenerateResource.cache
+G:\PRG\test_DateTime\test_DateTime\obj\Debug\test_DateTime.csproj.CoreCompileInputs.cache
+G:\PRG\test_DateTime\test_DateTime\obj\Debug\test_DateTime.exe
+G:\PRG\test_DateTime\test_DateTime\obj\Debug\test_DateTime.pdb
